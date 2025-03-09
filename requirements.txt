@@ -1,1 +1,5 @@
 Flask==3.0.3
+flask-cors==4.0.0
+python-socketio==5.11.1
+flask-socketio==5.3.6
+pyngrok==7.0.5
